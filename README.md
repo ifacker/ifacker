@@ -15,10 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center">
+
 [![ifacker](https://github-readme-stats.vercel.app/api?&username=ifacker&show_icons=true&theme=cobalt&locale=cn#gh-dark-mode-only)](https://github.com/ifacker#gh-dark-mode-only)
 [![ifacker](https://github-readme-stats.vercel.app/api?&username=ifacker&show_icons=true&theme=default&locale=cn#gh-light-mode-only)](https://github.com/ifacker#gh-light-mode-only)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ifacker&locale=cn&theme=cobalt&langs_count=10)](https://github.com/ifacker)
-
-</a>
