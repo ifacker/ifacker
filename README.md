@@ -16,10 +16,7 @@ Here are some ideas to get you started:
 -->
 
 [![ifacker](https://github-readme-stats.vercel.app/api?&username=ifacker&show_icons=true&theme=cobalt#gh-dark-mode-only)](https://github.com/ifacker)
-[![ifacker](https://github-readme-stats.vercel.app/api?&username=ifacker&show_icons=true&theme=cobalt&bg_color=ffffff#gh-light-mode-only)](https://github.com/ifacker)
+[![ifacker](https://github-readme-stats.vercel.app/api?&username=ifacker&show_icons=true&theme=default&#gh-light-mode-only)](https://github.com/ifacker)
 
-
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 [![ifacker](https://github-readme-stats.vercel.app/api/top-langs/?username=Winter-is-comingXK&layout=compact&locale=cn)](https://github.com/ifacker)
