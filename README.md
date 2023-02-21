@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![ifacker](https://github-readme-stats.vercel.app/api?&username=ifacker&show_icons=true&theme=cobalt#gh-dark-mode-only)](https://github.com/ifacker#gh-dark-mode-only)
-[![ifacker](https://github-readme-stats.vercel.app/api?&username=ifacker&show_icons=true&theme=default&#gh-light-mode-only)](https://github.com/ifacker#gh-light-mode-only)
+[![ifacker](https://github-readme-stats.vercel.app/api?&username=ifacker&show_icons=true&theme=cobalt&locale=cn#gh-dark-mode-only)](https://github.com/ifacker#gh-dark-mode-only)
+[![ifacker](https://github-readme-stats.vercel.app/api?&username=ifacker&show_icons=true&theme=default&locale=cn#gh-light-mode-only)](https://github.com/ifacker#gh-light-mode-only)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ifacker)](https://github.com/ifacker)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ifacker&locale=cn&repo=cscan-go&theme=cobalt)](https://github.com/ifacker)
 
 [![ifacker](https://github-readme-stats.vercel.app/api/top-langs/?username=Winter-is-comingXK&layout=compact&locale=cn)](https://github.com/ifacker)
